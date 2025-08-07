@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prodapt/static/css/main.88df6614.css",
+    "main.js": "/Prodapt/static/js/main.e421fa28.js",
+    "static/js/453.b21a91d2.chunk.js": "/Prodapt/static/js/453.b21a91d2.chunk.js",
+    "index.html": "/Prodapt/index.html",
+    "main.88df6614.css.map": "/Prodapt/static/css/main.88df6614.css.map",
+    "main.e421fa28.js.map": "/Prodapt/static/js/main.e421fa28.js.map",
+    "453.b21a91d2.chunk.js.map": "/Prodapt/static/js/453.b21a91d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88df6614.css",
+    "static/js/main.e421fa28.js"
+  ]
+}
