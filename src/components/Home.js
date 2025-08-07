@@ -118,7 +118,8 @@ function Home() {
 
       <div className="home-container">
         <h2>Welcome to the Family</h2>
-        <p className="subtitle">A peek inside our chaotic, hilarious, loving household.</p>
+        <p className="subtitle">Modern Family is a popular American TV sitcom that aired from 2009 to 2020. It follows the lives of three interconnected families — the Pritchetts, the Dunphys, and the Tuckers — through a mockumentary-style format. The show explores love, parenting, and the hilarious challenges of modern-day family life with warmth and humor. It earned critical acclaim and multiple Emmy Awards for its relatable characters and clever writing.
+        </p>
         <div className="button-group">
           <button className="home-button dashboard-btn" onClick={() => navigate('/dashboard')}><span>Family Dashboard</span></button>
           <button className="home-button gallery-btn" onClick={() => navigate('/gallery')}><span>Photo Gallery</span></button>
